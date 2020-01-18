@@ -1,1 +1,28 @@
-<mxfile host="www.draw.io" modified="2020-01-18T03:46:50.608Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" version="12.5.5" etag="cMZjgZUbcUmH8ujK3N13" type="github"><diagram id="qakrYlE-CzIehcLYrzp0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-18T03:50:06.612Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="dmTOLEnw2dWwkQAucxFa" version="12.5.5" type="github">
+  <diagram id="qakrYlE-CzIehcLYrzp0" name="第 1 页">
+    <mxGraphModel dx="1188" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="5000" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="AlXouRmLFKqMlLmcbySh-7" style="rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=80;entryDy=65;entryPerimeter=0;shadow=0;" edge="1" parent="1" source="AlXouRmLFKqMlLmcbySh-1" target="AlXouRmLFKqMlLmcbySh-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="AlXouRmLFKqMlLmcbySh-1" value="购买游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="310" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="AlXouRmLFKqMlLmcbySh-4" value="付费" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="270" width="80" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="AlXouRmLFKqMlLmcbySh-8" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="420" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="AlXouRmLFKqMlLmcbySh-9" value="开始游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="550" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="AlXouRmLFKqMlLmcbySh-10" value="选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="550" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
