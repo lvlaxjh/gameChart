@@ -1,9 +1,230 @@
-<mxfile host="www.draw.io" modified="2020-02-02T03:54:35.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="lPvE_JqowTJDhafPJjAA" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-02T05:22:54.110Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="BPoi5SAM8H5WCPXOLKul" version="12.6.2" type="github">
   <diagram id="I3ozRoB-7LiojP_Uh70e" name="第 1 页">
-    <mxGraphModel dx="2377" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="4753" dy="2647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-3" value="进入地图" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-1" target="vbNZHBy9lxUpTD-E9MMC-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-1" value="开始游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-2" target="vbNZHBy9lxUpTD-E9MMC-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-9" value="开始出怪倒计时：20s" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-2" target="vbNZHBy9lxUpTD-E9MMC-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-2" value="选择初始塔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-11" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-8" target="vbNZHBy9lxUpTD-E9MMC-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-8" target="vbNZHBy9lxUpTD-E9MMC-32">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-8" target="vbNZHBy9lxUpTD-E9MMC-53">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-8" target="vbNZHBy9lxUpTD-E9MMC-54">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-8" target="vbNZHBy9lxUpTD-E9MMC-55">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-8" value="布置塔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="390" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-10" target="vbNZHBy9lxUpTD-E9MMC-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-10" value="出怪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="530" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-12" target="vbNZHBy9lxUpTD-E9MMC-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-12" value="攻击过程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="670" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-16" target="vbNZHBy9lxUpTD-E9MMC-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-16" target="vbNZHBy9lxUpTD-E9MMC-19">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-16" value="物品掉落" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="670" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-14" target="vbNZHBy9lxUpTD-E9MMC-26">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-14" target="vbNZHBy9lxUpTD-E9MMC-30">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-14" target="vbNZHBy9lxUpTD-E9MMC-37">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-14" target="vbNZHBy9lxUpTD-E9MMC-66">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-14" target="vbNZHBy9lxUpTD-E9MMC-70">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-14" value="回合结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="810" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-26" target="vbNZHBy9lxUpTD-E9MMC-28">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-26" value="金币结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="810" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-6" value="选择初始塔：&lt;br&gt;选择一个英雄塔，一个小兵塔&lt;br&gt;（从三个英雄塔选择一个，从5个小兵塔中选择一个）&lt;br&gt;玩家当前金币上限为15，当前为0（即开局不能抽卡）&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="130" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-19" value="怪物掉落一些物品（*）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="610" width="130" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-28" value="玩家上限为15，当前为15，使用金币进行操作" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="760" width="130" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-30" target="vbNZHBy9lxUpTD-E9MMC-31">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-30" value="抽塔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="910" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-31" value="两种抽卡：&lt;br&gt;单张抽卡3金币（只有小兵塔），&lt;br&gt;五连抽15金币（可能会出现英雄塔），" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="880" width="130" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-32" value="玩家可将塔布置在地图之上，或放在背包中不使用" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="130" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-37" target="vbNZHBy9lxUpTD-E9MMC-42">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-37" target="vbNZHBy9lxUpTD-E9MMC-44">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-37" target="vbNZHBy9lxUpTD-E9MMC-45">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-37" target="vbNZHBy9lxUpTD-E9MMC-46">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-52" value="出怪倒计时" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-37" target="vbNZHBy9lxUpTD-E9MMC-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="1350"/>
+              <mxPoint x="1310" y="1350"/>
+              <mxPoint x="1310" y="420"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-37" value="怪物变化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="950" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-75" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-42" target="vbNZHBy9lxUpTD-E9MMC-74">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-42" value="出现奖励怪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="950" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-77" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-44" target="vbNZHBy9lxUpTD-E9MMC-76">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-44" value="小boss怪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1050" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-79" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-45" target="vbNZHBy9lxUpTD-E9MMC-78">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-45" value="小怪升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1150" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-46" value="最终boss" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-53" target="vbNZHBy9lxUpTD-E9MMC-60">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-53" value="组合升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-54" target="vbNZHBy9lxUpTD-E9MMC-62">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-54" value="组合效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-65" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-55" target="vbNZHBy9lxUpTD-E9MMC-64">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-55" value="移动塔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="255" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-60" value="若有三个相同的塔，则可升级至绿色等级，六个相同塔升级为蓝色，（合成：场中的三个相同塔会合成并回到背包中，需重新安放）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="10" width="420" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-62" value="塔会有三个被动效果，初始为一级效果，合成为绿色变为二级效果，合成为蓝色变为三级效果，每种效果或不相同或加强，但升级必定加强效果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="130" width="410" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-64" value="英雄塔可还话费一金币移动，小兵始终不可移动" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="255" width="130" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-66" target="vbNZHBy9lxUpTD-E9MMC-68">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-66" value="使用物品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1010" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-68" value="为塔安置物品，安置物品后物品不可拿下" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1005" width="130" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-70" target="vbNZHBy9lxUpTD-E9MMC-71">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-70" value="选择被动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-71" value="奖励关卡结束，可选择被动，被动技能影响全部小怪或全部塔，或产生其他影响，效果全局有效" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1130" width="130" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-74" value="特定关卡会出现奖励怪，掉过物品纪律增加，并根据伤害值，可选择跟高等级被动效果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="840" width="130" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-76" value="特定关卡出现" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="960" width="130" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-78" value="增加属性" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1105" width="130" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-82" value="游戏结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-83" value="无限模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-14" target="vbNZHBy9lxUpTD-E9MMC-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="840"/>
+              <mxPoint x="710" y="1460"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vbNZHBy9lxUpTD-E9MMC-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="vbNZHBy9lxUpTD-E9MMC-14" target="vbNZHBy9lxUpTD-E9MMC-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="825"/>
+              <mxPoint x="690" y="1400"/>
+              <mxPoint x="1090" y="1400"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
